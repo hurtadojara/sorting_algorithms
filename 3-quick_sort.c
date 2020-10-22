@@ -1,5 +1,4 @@
 #include "sort.h"
-
 /**
  * quick_sort - function to call the function
  * @array: element to sort
